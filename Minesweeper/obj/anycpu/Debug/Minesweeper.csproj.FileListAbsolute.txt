@@ -1,0 +1,10 @@
+/Users/slavick.snegirevicloud.com/Projects/Minesweeper/Minesweeper/bin/Debug/Minesweeper.exe
+/Users/slavick.snegirevicloud.com/Projects/Minesweeper/Minesweeper/bin/Debug/Minesweeper.pdb
+/Users/slavick.snegirevicloud.com/Projects/Minesweeper/Minesweeper/obj/anycpu/Debug/Minesweeper.csproj.AssemblyReference.cache
+/Users/slavick.snegirevicloud.com/Projects/Minesweeper/Minesweeper/obj/anycpu/Debug/Minesweeper.csproj.CoreCompileInputs.cache
+/Users/slavick.snegirevicloud.com/Projects/Minesweeper/Minesweeper/obj/anycpu/Debug/Minesweeper.exe
+/Users/slavick.snegirevicloud.com/Projects/Minesweeper/Minesweeper/obj/anycpu/Debug/Minesweeper.pdb
+/Users/slavick.snegirevicloud.com/Projects/Minesweeper/Minesweeper/bin/Debug/libstetic.dll
+/Users/slavick.snegirevicloud.com/Projects/Minesweeper/Minesweeper/bin/Debug/libstetic.xml
+/Users/slavick.snegirevicloud.com/Projects/Minesweeper/Minesweeper/bin/Debug/libstetic.dll.config
+/Users/slavick.snegirevicloud.com/Projects/Minesweeper/Minesweeper/obj/anycpu/Debug/Minesweeper.csproj.CopyComplete

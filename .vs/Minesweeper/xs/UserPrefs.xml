@@ -1,0 +1,30 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{229F35B3-E6D7-4E81-A55F-DD99CEB93D2C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Minesweeper PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Minesweeper/MainWindow.cs" Line="331" Column="24" IsPinned="True" />
+      <File FileName="Minesweeper/GameField.cs" Line="183" Column="18" IsPinned="True" />
+      <File FileName="Minesweeper/GameRendering.cs" Line="16" Column="10" IsPinned="True" />
+      <File FileName="Minesweeper/ImageProcessing.cs" />
+      <File FileName="Minesweeper/RulesWindow.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Minesweeper" expanded="True">
+            <Node name="Minesweeper" expanded="True">
+              <Node name="UserInterface" expanded="True" />
+              <Node name="GameRendering.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
