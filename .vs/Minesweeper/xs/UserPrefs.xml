@@ -1,12 +1,13 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{229F35B3-E6D7-4E81-A55F-DD99CEB93D2C}|Default">
   <MonoDevelop.Ide.ItemProperties.Minesweeper PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Minesweeper/Records.cs">
     <Files>
       <File FileName="Minesweeper/MainWindow.cs" Line="331" Column="24" IsPinned="True" />
-      <File FileName="Minesweeper/GameField.cs" Line="183" Column="18" IsPinned="True" />
-      <File FileName="Minesweeper/GameRendering.cs" Line="16" Column="10" IsPinned="True" />
-      <File FileName="Minesweeper/ImageProcessing.cs" />
-      <File FileName="Minesweeper/RulesWindow.cs" Line="1" Column="1" />
+      <File FileName="Minesweeper/GameField.cs" IsPinned="True" />
+      <File FileName="Minesweeper/GameRendering.cs" IsPinned="True" />
+      <File FileName="Minesweeper/ImageProcessing.cs" Line="1" Column="1" />
+      <File FileName="Minesweeper/RulesWindow.cs" />
+      <File FileName="Minesweeper/Records.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,7 +15,7 @@
           <Node name="Minesweeper" expanded="True">
             <Node name="Minesweeper" expanded="True">
               <Node name="UserInterface" expanded="True" />
-              <Node name="GameRendering.cs" selected="True" />
+              <Node name="Records.cs" selected="True" />
             </Node>
           </Node>
         </State>
